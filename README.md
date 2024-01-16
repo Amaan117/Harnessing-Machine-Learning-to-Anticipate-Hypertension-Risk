@@ -32,7 +32,7 @@ The results show that the Random Forest model has the highest accuracy, followed
 
 ## Conclusion
 
-The Random Forest and Logistic Regression model is the best model for predicting the probability of a patient having a positive pregnancy test result.
+The Random Forest and Logistic Regression model is the best model for predicting the probability of a patient having a positive hypertension test result.
 
 ## References
 
